@@ -47,3 +47,6 @@ commands:
   savedstates:
     description: Displays a player's saved states.
     usage: /savedstates [player]
+  crewbed:
+    description: Displays a player's crew bed location.
+    usage: /crewbed [player]
